@@ -8,6 +8,7 @@ set tabstop=4               " number of columns occupied by a tab
 set softtabstop=4           " see multiple spaces as tabstops so <BS> does the right thing
 set expandtab               " converts tabs to white space
 set number                  " add line numbers
+set textwidth=100
 set cc=100                  " set an 100 column border for good coding style
 set clipboard=unnamedplus   " using system clipboard
 
